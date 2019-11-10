@@ -1,0 +1,5 @@
+List of funcitons-
+class roundrobin: this will create an object containing the data from the file
+roundrobin(): this function will simulate the round robin processes
+How to run:
+Type, make all and the type, ./rr that will excute and display results.
